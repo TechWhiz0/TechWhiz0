@@ -1,7 +1,5 @@
 <h2>🔥 नमस्ते (Namaste)🙏🏻, I'm Anshu Nishad! </h2>
-<div align="center">
-  <img  src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/22b22287602523.5dbd29081561d.gif" />
-  </div>
+
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWZxMGV1cnd4ZWJlemEwaTk1aHRyaXR2a3pkaTBiYzh5ZzN2MXJhdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="230">
 <p><em>Full Stack Developer Intern at <a href="https://www.vistaran.com/">Vistaran Techtronix
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
