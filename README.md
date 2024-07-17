@@ -8,7 +8,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://x.com/techwhiz0)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anshu-dev-ashy.vercel.app/)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/anshu-nishad?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anshu-nishad/)](https://www.linkedin.com/in/anshu-nishad/)
-[![GitHub Educationalgamer](https://img.shields.io/github/followers/educationalgamer?label=follow&style=social)](https://github.com/educationalgamer)
+[![GitHub Educationalgamer](https://img.shields.io/github/followers/TechWhiz0?label=follow&style=social)](https://github.com/educationalgamer)
 
 ### 📫 Like to meet me?
 
@@ -88,8 +88,7 @@ const anshu = {
 
 ## 📊 My Github Stats
 
-   <br/>
-<a href="https://github.com/TechWhiz0/github-readme-stats"><img alt="Anshu Singh Github Stats" src="https://github-readme-stats.vercel.app/api?username=TechWhiz0&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+ 
   <a href="https://github.com/TechWhiz0/github-readme-stats"><img alt="Anshu Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechWhiz0&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
