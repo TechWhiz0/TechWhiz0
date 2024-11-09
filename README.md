@@ -1,7 +1,7 @@
 <h2>🔥 नमस्ते (Namaste)🙏🏻, I'm Anshu Nishad! </h2>
 
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWZxMGV1cnd4ZWJlemEwaTk1aHRyaXR2a3pkaTBiYzh5ZzN2MXJhdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="230">
-<p><em>SDE Intern at <a href="https://www.vistaran.com/">Vistaran Techtronix
+<p><em>Full Stack Engineer at <a href="https://zintellix.vercel.app">Zintellix
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
@@ -49,13 +49,6 @@ const anshu = {
 
 ```
 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                758 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
-🌆 Daytime                1768 commits        ██████████░░░░░░░░░░░░░░░   40.63 % 
-🌃 Evening                1284 commits        ███████░░░░░░░░░░░░░░░░░░   29.51 % 
-🌙 Night                  541 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
 ```
 
 ## 💻Use To Code
