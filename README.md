@@ -29,7 +29,7 @@ npx anshunishad
 const anshu = {
   pronouns: "she" | "her",
   code: ["Javascript", "Java", "Solidity"],
-    askMeAbout: ["web dev", "tech", "devops", "gaming"],
+    askMeAbout: ["web dev", "ai", "blockchain"],
     technologies: {
         backEnd: {
             js: ["Node", "Express" , "prisma"],
@@ -37,19 +37,18 @@ const anshu = {
         frontend: {
             js: ["Typescript", "TailwindCss", "Stripe", "React", "Nextjs"],
         },
-        devOps: ["AWS", "Docker🐳", "Nginx" , ""],
+        devOps: ["AWS", "Docker🐳", "Nginx" , "cloudFare"],
         databases: ["mongo", "Postgres"],
-        misc: ["Firebase", "Web Socket"]
+        misc: ["sockat.io", "Web Socket"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentFocus: "No Focus point at this time",
-    challenge: "I am done the #100DaysofWebDev challenge focused on Web Development",
     funFact: "I'm like a bug, always hungry to learn new things in tech!"
 }
 
 ```
 
-```
+
 
 ## 💻Use To Code
 
