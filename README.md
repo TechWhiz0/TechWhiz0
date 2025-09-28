@@ -1,7 +1,7 @@
 <h2>🔥 नमस्ते (Namaste)🙏🏻, I'm Anshu Nishad! </h2>
 
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWZxMGV1cnd4ZWJlemEwaTk1aHRyaXR2a3pkaTBiYzh5ZzN2MXJhdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="230">
-<p><em>Full Stack Engineer at <a href="https://zintellix.vercel.app">Zintellix
+<p><em>Associate Engineer at <a href="https://zintellix.vercel.app">Athena Education
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
@@ -10,73 +10,67 @@
 [![Linkedin: thaianebraga](https://img.shields.io/badge/anshu-nishad?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anshu-nishad/)](https://www.linkedin.com/in/anshu-nishad/)
 [![GitHub Educationalgamer](https://img.shields.io/github/followers/TechWhiz0?label=follow&style=social)](https://github.com/educationalgamer)
 
-### 📫 Like to meet me?
-
-Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
-
-<a href="https://calendly.com/forcourse2021aaa/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
-
-👇 Hit in your console or terminal to connect with me.
-
-```bash
-npx anshunishad
-```
-
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" > A little more about me...  
 
 ```javascript
 const anshu = {
   pronouns: "she" | "her",
-  code: ["Javascript", "Java", "Solidity"],
-    askMeAbout: ["web dev", "ai", "blockchain"],
-    technologies: {
-        backEnd: {
-            js: ["Node", "Express" , "prisma"],
-        },
-        frontend: {
-            js: ["Typescript", "TailwindCss", "Stripe", "React", "Nextjs"],
-        },
-        devOps: ["AWS", "Docker🐳", "Nginx" , "cloudFare"],
-        databases: ["mongo", "Postgres"],
-        misc: ["sockat.io", "Web Socket"]
+  code: ["JavaScript", "Python"],
+  askMeAbout: ["web development", "AI/ML", "Generative AI"],
+  technologies: {
+    backEnd: {
+      js: ["Node.js", "Express", "Prisma"],
+      ai: ["TensorFlow.js", "PyTorch", "LangChain"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "No Focus point at this time",
-    funFact: "I'm like a bug, always hungry to learn new things in tech!"
+    frontEnd: {
+      js: ["TypeScript", "React", "Next.js", "TailwindCSS", "Stripe"]
+    },
+    devOps: ["AWS", "Docker 🐳", "Nginx", "Cloudflare", "CI/CD Pipelines"],
+    databases: ["MongoDB", "PostgreSQL", "Redis"],
+    misc: ["Socket.IO", "WebSockets", "API Integration"]
+  },
+  architecture: ["Serverless Architecture", "Progressive Web Applications", "Single Page Applications", "AI-Powered Microservices"],
+  currentFocus: "Building generative AI-powered full-stack applications",
+  funFact: "I'm like a bug 🐛—always hungry to explore and innovate with AI in tech!"
 }
+
 
 ```
 
 
 
 ## 💻Use To Code
-
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
+![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-lightgrey?logo=mysql&style=for-the-badge&logoColor=white&labelColor=blue)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS5](https://img.shields.io/badge/CSS5-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
+![CSS](https://img.shields.io/badge/CSS5-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 ![API](https://img.shields.io/badge/API-008000?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Visual Studio Code Professional](https://img.shields.io/badge/VS_Code_Professional-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
-![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI%2FCD-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FF9900?style=for-the-badge&logo=huggingface&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge)
+
 
 ## 📊 My Github Stats
 
